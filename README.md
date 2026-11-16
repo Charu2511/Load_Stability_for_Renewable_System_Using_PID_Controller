@@ -193,3 +193,17 @@ Load-Stability-for-Renewable-System-Using-PID-Controller/
 │
 └── Images/
     └── hardware_implementation.jpg
+## Author
+
+**Tanzila Sultana**
+
+Department of Electrical & Electronic Engineering  
+Rajshahi University of Engineering & Technology (RUET)  
+Bangladesh
+
+**Project:** Li-Po Battery Monitoring and Protection System  
+**Course:** EEE 3202 – Capstone Project Design I
+
+---
+
+*Developed as an undergraduate capstone project at RUET.*
